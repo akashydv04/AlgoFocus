@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "31679069095",
+    "firebase_url": "https://algofocus-237bd.firebaseio.com",
+    "project_id": "algofocus-237bd",
+    "storage_bucket": "algofocus-237bd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:31679069095:android:03c9d387268619b47f9482",
+        "android_client_info": {
+          "package_name": "ak.gunsariyas.algofocus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "31679069095-pnbrhigur9bpra8pismddbkkrfghke6a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZOIeZKLKGnLJUPHPCv2MolbzjM2Jlz9M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "31679069095-pnbrhigur9bpra8pismddbkkrfghke6a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
